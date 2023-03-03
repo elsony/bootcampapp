@@ -5,9 +5,11 @@ metadata:
   provider: Uth
   displayName: bootcampapp
   description: bootcampapp
-  tags: ["Java", "Maven"]
-  projectType: "maven"
-  language: "java"
+  tags:
+    - Java
+    - Quarkus
+  projectType: Quarkus
+  language: Java
 parent:
   id: java-quarkus
   registryUrl: "https://registry.devfile.io"
