@@ -9,7 +9,7 @@ metadata:
   projectType: "maven"
   language: "java"
 parent:
-  id: code-with-quarkus
+  id: java-quarkus
   registryUrl: "https://registry.devfile.io"
 components:
   - name: image-build
